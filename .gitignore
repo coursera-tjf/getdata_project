@@ -2,3 +2,5 @@
 .Rhistory
 # do not keep data files either
 data.zip
+# do not worry about vim .swp files
+*.swp
